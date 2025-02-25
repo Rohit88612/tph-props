@@ -1,19 +1,16 @@
 fx_version 'cerulean'
-lua54 'yes'
 game 'gta5'
 
 author 'Rohit'
-description 'Standalone Mailbox Pickup and Throw Script'
-version '1.0.0'
+description 'Standalone Prop Handling Script for FiveM'
+version '1.0'
 
-shared_scripts {
-    '@ox_lib/init.lua'
-}
+shared_script 'config.lua'
 
 client_scripts {
-    'main.lua'
+    'client.lua'
 }
 
-dependencies {
-    'ox_lib'
+server_scripts {
+    'server.lua'
 }
