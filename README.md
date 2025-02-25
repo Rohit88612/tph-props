@@ -1,6 +1,9 @@
 # Description 
 This script allows players to pick up nearby props, hold them, and place them back in the world. While holding a prop, a preview version of the prop will be displayed ahead of the player to show where it will be placed. The preview is transparent and has no collision to prevent interference with the environment.
 
+# Preview
+Soon..!!
+
 # Features  
 
 🔹 **_Pickup & Hold Props -_**
