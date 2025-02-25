@@ -24,5 +24,5 @@ Once placed, the prop regains full collision and behaves normally.
 
 **/place_prop -**	Places the held prop at the previewed location.
 
-# Discord Server 
+# Our Discord Server 
  **[TPH-Discord](https://discord.gg/vgravmPGy5)**
